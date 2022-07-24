@@ -1,7 +1,6 @@
 print ("Hi!")
-
+print ("HELLO")
 suggestedbase = "dress"
-
 base = input("Due to the weather, I suggest " + suggestedbase + ", but what are YOU feeling?")
 if base == suggestedbase:
     print("Yay!")
